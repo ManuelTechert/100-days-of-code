@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: November 30, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Im now starting the 100days-of-code-challenge**:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+To be honest I'was thinking about it for a longer time now, but never got to the point where I could overcome my inner laziness.
+Well, I'm now  finally going to do it!
 
-**Link to work:** [Calculator App](http://www.example.com)
+To get used to it, I will start with the Front-End-Certificate of FreeCodeCamp.
+Later I'm planning to start programming React Native or rebuild my website with Jekyll.
+But I will see!
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+As mentioned in my initial Twitter Post (@MTechert), logs will be created daily at the forked 100-days-of-code repository in my GitHub-Account, sometimes connected with a short twitter post.
+For larger logs or additional comments on progress I'm making, I'm planning to write single Blog-entries on my website (manueltechert.com).
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I'm glad and happy for all encouragement and feedback I receive!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: November 30, 2017
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**:
 
+Today I started with the Front-End-Certificate of the FreeCodeCamp.
+In addition I continued my CodeAcademy-Tutorial on React as prerequisite to code in React Native.
 
-### Day 1: June 27, Monday
+**Thoughts:**:
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+It's my first day to face the challenge.
+I'm  pretty motivated to get through it and learn as much as I possibly can.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:**:
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+As I'm working on the Front-End-Certificate in early stages, there is no link to show.
+In a few days I will work on some first projects like writing some examples in HTML / CSS and JS.
+I can't tell it yet but it will be something, I can give you a link to.
