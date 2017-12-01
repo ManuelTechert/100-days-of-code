@@ -20,7 +20,7 @@ I'm glad and happy for all encouragement and feedback I receive!
 
 **Today's Progress**:
 
-Today I started with the Front-End-Certificate of the FreeCodeCamp.
+Today I started with the Front-End-Certificate of the FreeCodeCamp where I relearned some basic HTML and CSS stuff. I
 In addition I continued my CodeAcademy-Tutorial on React as prerequisite to code in React Native.
 
 **Thoughts:**:
@@ -33,3 +33,21 @@ I'm  pretty motivated to get through it and learn as much as I possibly can.
 As I'm working on the Front-End-Certificate in early stages, there is no link to show.
 In a few days I will work on some first projects like writing some examples in HTML / CSS and JS.
 I can't tell it yet but it will be something, I can give you a link to.
+
+### Day 2: December 1, 2017
+
+**Today's Progress**:
+
+Today I continued making progress on the Front-End-Certificate at the FreeCodeCamp.
+I managed to complete 32 exercises.
+After that I tried out the Converse AI Dashboard of Google Actions, where I'm planning to create a little personal Jarvis for my home.
+
+**Thoughts:**:
+
+I haven't had any problems with the exercices I was faced with at FreeCodeCamp as I already know HTML, CSS and JS. Anyway, it was good to repeat that stuff and to take a look at details which I didn't know yet.
+
+The Converse AI is pretty user-friendly. A little bit too much in my opinion but I managed to get used to the steps to take to create a conversation with different modules for my Google Home device. I will get back to it tomorrow.
+**Link to work:**:
+
+You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
+When I'm far enough, to publish my little Jarvis at Google Actions you will be given a link to that.
