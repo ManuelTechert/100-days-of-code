@@ -47,6 +47,7 @@ After that I tried out the Converse AI Dashboard of Google Actions, where I'm pl
 I haven't had any problems with the exercices I was faced with at FreeCodeCamp as I already know HTML, CSS and JS. Anyway, it was good to repeat that stuff and to take a look at details which I didn't know yet.
 
 The Converse AI is pretty user-friendly. A little bit too much in my opinion but I managed to get used to the steps to take to create a conversation with different modules for my Google Home device. I will get back to it tomorrow.
+
 **Link to work:**:
 
 You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
