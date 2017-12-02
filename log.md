@@ -52,3 +52,21 @@ The Converse AI is pretty user-friendly. A little bit too much in my opinion but
 
 You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
 When I'm far enough, to publish my little Jarvis at Google Actions you will be given a link to that.
+
+### Day 3: December 2, 2017
+
+**Today's Progress**:
+
+I made some more progress on the Front-End-Certificate. Currently I'm learning something about bootstrap.
+I was thinking about my plans for the next few days. I definitely want to do something in React-Native, nothing too complicated. I already created a starter-project in my 100days-of-code-project repository. Actually I wanted to get more stuff done today, but unfortunately I'm feeling like I'm getting a bit ill.
+
+**Thoughts:**:
+
+The challenges about bootstrap weren't that hard to complete. It was just about adding some different classes to my HTML-elements and understanding what their impact is.
+I'm struggling with the choose of a project to start with. So many things I want to try.
+
+**Link to work:**:
+
+You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
+My initial React-Native project is located at https://github.com/ManuelTechert/100days-of-code-projects
+in the "example" folder. Yet is doesn't contain any written code.
