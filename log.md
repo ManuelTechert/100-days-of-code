@@ -44,7 +44,7 @@ After that I tried out the Converse AI Dashboard of Google Actions, where I'm pl
 
 **Thoughts:**:
 
-I haven't had any problems with the exercices I was faced with at FreeCodeCamp as I already know HTML, CSS and JS. Anyway, it was good to repeat that stuff and to take a look at details which I didn't know yet.
+I haven't had any problems with the exercises I was faced with at FreeCodeCamp as I already know HTML, CSS and JS. Anyway, it was good to repeat that stuff and to take a look at details which I didn't know yet.
 
 The Converse AI is pretty user-friendly. A little bit too much in my opinion but I managed to get used to the steps to take to create a conversation with different modules for my Google Home device. I will get back to it tomorrow.
 
@@ -70,3 +70,24 @@ I'm struggling with the choose of a project to start with. So many things I want
 You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
 My initial React-Native project is located at https://github.com/ManuelTechert/100days-of-code-projects
 in the "example" folder. Yet is doesn't contain any written code.
+
+### Day 4: December 3, 2017
+
+**Today's Progress**:
+
+I have now completed 103 exercises on the Front-End-Certification.
+I'm faced to do the first project on FreeCodeCamp, creating a tribute page with CodePen.io.
+I will start with it tomorrow.
+
+As a quick correction to yesterday: My repository for the 100days-of-code projects is now deleted.
+I decided to separate single projects to their own repositories for a better overview and maintenance.
+
+**Thoughts:**:
+
+I really had fun working with jQuery today and had no problems with it.
+I'm looking forward to start with the project tomorrow and try out CodePen.io.
+
+**Link to work:**:
+
+You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
+As I now deleted my project folder for the 100-days-of-code, my initial React-Native-Code isn't published right now. Tomorrow you will finally get a link to my CodePen, which contains my work I'm doing on the project.
