@@ -91,3 +91,27 @@ I'm looking forward to start with the project tomorrow and try out CodePen.io.
 
 You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
 As I now deleted my project folder for the 100-days-of-code, my initial React-Native-Code isn't published right now. Tomorrow you will finally get a link to my CodePen, which contains my work I'm doing on the project.
+
+### Day 5: December 4, 2017
+
+**Today's Progress**:
+
+Today I started the first project on FreeCodeCamp, I succesfully built a tribute page about Desmond Doss. Some of you may know him from the movie "Hacksaw Ridge", which is about him. You can check it out below.
+
+After that, I started the second challenge where I was asked to build a personal-portfolio-page. I made some quick progress on it and sadly got stuck, that's why I will continue working on it tomorrow.
+
+**Thoughts:**:
+
+I had minor problems with positioning while building the tribute page. I wanted to integrate something with jQuery in the tribute page. That's why I got a button which fades the count of people, Desmond Doss saved, in.
+
+Moving on to the second challenge, I got stuck at positioning my navbar with bootstrap. I did research on the Grid-system and googled about 1-2 hours with no success. Guess, I got a little problem to solve tomorrow.
+
+**Link to work:**:
+
+You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
+My CodePen for the first challenge: https://codepen.io/ghosti97/pen/QOYVPB
+Link to the second challenge will be given when I have finished it.
+
+
+
+
