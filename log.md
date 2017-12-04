@@ -109,7 +109,9 @@ Moving on to the second challenge, I got stuck at positioning my navbar with boo
 **Link to work:**:
 
 You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
+
 My CodePen for the first challenge: https://codepen.io/ghosti97/pen/QOYVPB
+
 Link to the second challenge will be given when I have finished it.
 
 
