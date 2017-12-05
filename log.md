@@ -123,8 +123,8 @@ I now got correct positioning of my navbar. I added social icons, colors, a form
 
 **Thoughts:**:
 
-The work on the second project was pretty hard for me. I spend several hours on creating a simple-looking-website. I had problems with bootstrap which are mostly solved now. My navbar, however, didn't want to work as I put the single links as <li>-elements in my <ul>.
-I got a workaround with some <p> elements, but I definitely want to correct that tomorrow. In addition, when I added "position:fixed" to my nav, the size of the bar doesn't fit in my container yet.
+The work on the second project was pretty hard for me. I spend several hours on creating a simple-looking-website. I had problems with bootstrap which are mostly solved now. My navbar, however, didn't want to work as I put the single links as li-elements in my ul.
+I got a workaround with some p elements, but I definitely want to correct that tomorrow. In addition, when I added "position:fixed" to my nav, the size of the bar doesn't fit in my container yet.
 Last topic on this project will be the JS-part with adding code to show, which link is selected.
 
 **Link to work:**:
