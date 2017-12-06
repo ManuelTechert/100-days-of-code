@@ -133,6 +133,28 @@ You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org
 
 My CodePen for the second challenge (still in work): https://codepen.io/ghosti97/pen/ZaPeZV
 
+### Day 7: December 6, 2017
+
+**Today's Progress**:
+
+On this wednesday I have finished the second project I was working on (Yey, I made it!). 
+After that, I continued with some Javascript-exercises on freecodecamp.
+I managed to do around 100 exercises.
+I bought an Udemy-course yesterday about React and React-Native and started with it.
+
+**Thoughts:**:
+
+Yesterday I was struggling with some minor problems at building the portfolio page. 
+Starting today I solved every problem that occured, placed my navbar in the foreground with a higher z-index and recolored my content.
+I added some sample pictures for the portfolio and a profile photo.
+I'm pretty motivated right now because I'm making some nice progress and got some projects I built, feels great!
+
+**Link to work:**:
+
+You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
+
+My CodePen for the second challenge (finished now!): https://codepen.io/ghosti97/pen/ZaPeZV
+
 
 
 
