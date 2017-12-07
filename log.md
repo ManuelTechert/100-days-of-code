@@ -159,7 +159,7 @@ My CodePen for the second challenge (finished now!): https://codepen.io/ghosti97
 
 **Today's Progress**:
 
-I completed the basic Javascript exercises on FreeCodeCamp and moved on to basic algorithm scripting whose completion is set to about 50 hours. I already solved around the half of it today so I guess the time , set to complete the section, is a bit high.
+I completed the basic Javascript exercises on FreeCodeCamp and moved on to basic algorithm scripting whose completion is set to about 50 hours. I already solved around the half of it today.
 In addition I worked a bit more on the recently bought React-Native course on udemy and played around with Javascript.
 
 **Thoughts:**:
