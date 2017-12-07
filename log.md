@@ -155,6 +155,24 @@ You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org
 
 My CodePen for the second challenge (finished now!): https://codepen.io/ghosti97/pen/ZaPeZV
 
+### Day 8: December 7, 2017
+
+**Today's Progress**:
+
+I completed the basic Javascript exercises on FreeCodeCamp and moved on to basic algorithm scripting whose completion is set to about 50 hours. I already solved around the half of it today so I guess the time , set to complete the section, is a bit high.
+In addition I worked a bit more on the recently bought React-Native course on udemy and played around with Javascript.
+
+**Thoughts:**:
+
+Was a gretty good day today, but I'm definitely having more fun building own projects as the last few days. 
+Anyway, learning Javascript is pretty important and the algorithm scripting is a good opportunity to dive into the thinking of a programmer.
+I'm already hyped to complete all exercises necessary to move on to the intermediate front-end projects!
+Maybe I will build a little game the next week with some HTML, CSS and JS.
+
+**Link to work:**:
+
+You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
+
 
 
 
