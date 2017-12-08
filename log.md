@@ -173,6 +173,24 @@ Maybe I will build a little game the next week with some HTML, CSS and JS.
 
 You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
 
+### Day 9: December 8, 2017
+
+**Today's Progress**:
+
+Today I've completed the basic algorithm scripting.
+I moved on to JSON APIs and Ajax and completed this short section.
+That means, now the intermediate projects will start!
+
+**Thoughts:**:
+
+The algorithms were pretty hard for some exercises and I spend several hours on it.
+I'm now looking forward to start with the projects the next week, as I will pause the weekend to relax a bit.
+These paused days will not be logged! So the next day a log will be created for is monday the 11th with day 10.
+
+**Link to work:**:
+
+You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
+
 
 
 
