@@ -191,6 +191,26 @@ These paused days will not be logged! So the next day a log will be created for 
 
 You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
 
+### Day 10: December 11, 2017
+
+**Today's Progress**:
+
+I started the first intermediate project, a Random Quote Machine!
+I could already finish it within several hours.
+
+**Thoughts:**:
+
+Forming the basic shape of the Random Quote Machine page was pretty easy. It became a bit tricky using an API to get random quotes. I googled for a suitable API to use and quickly found one.
+It was hard for me to adjust the href-attribute of my Twitter-link to have it's url containing the quote shown at the moment.
+At first my link was set to the content of the last quote requested by the user. With a Javascript-Promise, I managed to fix this.
+The page is now finished and should function properly.
+
+**Link to work:**:
+
+You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
+
+Link to my Random Quote Machine: https://codepen.io/ghosti97/pen/YYKZbj
+
 
 
 
