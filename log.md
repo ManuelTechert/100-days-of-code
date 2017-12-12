@@ -211,6 +211,27 @@ You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org
 
 Link to my Random Quote Machine: https://codepen.io/ghosti97/pen/YYKZbj
 
+### Day 11: December 12, 2017
+
+**Today's Progress**:
+
+I started and completed the second project, a Local Weather App.
+Spent around five hours on creating it.
+
+**Thoughts:**:
+
+I'm learning more and more every day. A few weeks ago, I wouldn't have thought I could  build a Local Weather App.
+It felt great and I hadn't any major problems with it.
+I'm planning to deploy the last two projects on Heroku to get to know the process of deploying an app.
+
+**Link to work:**:
+
+You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
+
+Link to my Local Weather App: https://codepen.io/ghosti97/pen/XVWXeb
+Keep in mind to open the link with the https to get the geolocation to work.
+I read the geolocation I used will be deprecated this December 2017, but I still used it. Just for the notes.
+
 
 
 
