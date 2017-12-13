@@ -228,9 +228,34 @@ I'm planning to deploy the last two projects on Heroku to get to know the proces
 
 You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
 
-Link to my Local Weather App: https://codepen.io/ghosti97/pen/XVWXeb
+Link to my Local Weather App: https://codepen.io/ghosti97/pen/XVWXeb 
+
 Keep in mind to open the link with the https to get the geolocation to work.
 I read the geolocation I used will be deprecated this December 2017, but I still used it. Just for the notes.
+
+### Day 12: December 13, 2017
+
+**Today's Progress**:
+
+I started and completed the third project, a Wikipedia Viewer (Three projects in three days, yeah!).
+You can either watch a random article or search entries through a search bar.
+Took me about four or five hours to create it.
+
+**Thoughts:**:
+
+Getting data from the Wikipedia-API wasn't as easy as it was for the Local Weather App.
+I was faced with a Cross-origin-resource-sharing (CORS) problem while trying to get the data with a usual ajax call (JSON-format).
+To bypass the same-origin-policy I solved this problem using JSONP.
+
+**Link to work:**:
+
+I won't link my FreeCodeCamp anymore as you can look it up in earlier log entries.
+Only real project or work links are now being listed in this area.
+
+Link to my Wikipedia-Viewer: https://codepen.io/ghosti97/full/GyggdO/ (Full-page-link)
+
+Note: Right now, you will need to click 'open link in new tab' for available results after hitting the search-button. 
+
 
 
 
