@@ -256,6 +256,30 @@ Link to my Wikipedia-Viewer: https://codepen.io/ghosti97/full/GyggdO/ (Full-page
 
 Note: Right now, you will need to click 'open link in new tab' for available results after hitting the search-button. 
 
+### Day 13: December 14, 2017
+
+**Today's Progress**:
+
+Today I started working on the fourth and last project of the intermediate ones.
+I finished the Twitch.tv-Viewer in around four hours.
+
+**Thoughts:**:
+
+This last project was the most difficult since I have started. I had problems setting data for my eight stream-entries in a foreach or for-loop, because JS is asynchronous. I tried it with Promises and failed.
+
+I then solved it using a nested function in my for-loop and a timeout, so each value is set for the right entry.
+Also, I needed to use two JSON-calls, one for the stream data and one to check if the stream is online right now.
+The sorting buttons weren't a problem.
+
+In the end, the page is working and that means I'm done with the intermediate projects!
+
+Will move on to the algorithm scripting tomorrow.
+
+**Link to work:**:
+
+Link to my Twitch.tv-Viewer: https://codepen.io/ghosti97/full/JMoqzM/ (Full-page-link)
+
+Note: You will need to click 'open link in new tab' for the stream links. 
 
 
 
