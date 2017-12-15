@@ -281,6 +281,22 @@ Link to my Twitch.tv-Viewer: https://codepen.io/ghosti97/full/JMoqzM/ (Full-page
 
 Note: You will need to click 'open link in new tab' for the stream links. 
 
+### Day 14: December 15, 2017
+
+**Today's Progress**:
+
+I started with intermediate algorithm scripting challenges and finished a few of them.
+
+**Thoughts:**:
+
+Well as I've written before, I like building projects more than algorithm scripting.
+Still, it's important to do.
+Wasn't that hard for me today, but I will pause over the weekend to regain focus.
+
+**Link to work:**:
+
+No link today!
+
 
 
 
