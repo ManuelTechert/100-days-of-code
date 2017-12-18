@@ -297,6 +297,22 @@ Wasn't that hard for me today, but I will pause over the weekend to regain focus
 
 No link today!
 
+### Day 15: December 18, 2017
+
+**Today's Progress**:
+
+I continued with the intermediate algorithm sciprting. Got a few left to solve.
+
+**Thoughts:**:
+
+Finished a lot of the algorithms, so I'm definitely making progress. 
+
+Still, I'm feeling a bit tired today which causes a loss of focus.
+
+**Link to work:**:
+
+No link today.
+
 
 
 
