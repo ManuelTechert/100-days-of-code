@@ -301,13 +301,29 @@ No link today!
 
 **Today's Progress**:
 
-I continued with the intermediate algorithm sciprting. Got a few left to solve.
+I continued with the intermediate algorithm scripting. Got a few left to solve.
 
 **Thoughts:**:
 
 Finished a lot of the algorithms, so I'm definitely making progress. 
 
 Still, I'm feeling a bit tired today which causes a loss of focus.
+
+**Link to work:**:
+
+No link today.
+
+### Day 16: December 19, 2017
+
+**Today's Progress**:
+
+I finished the section "intermediate algorithm scripting" today and moved on to advanced algorithms.
+
+**Thoughts:**:
+
+Good progress so far, algorithms are a bit more "boring" as building projects.
+I hope I will get through them in a few days so I can start with the last projects of the Front-End-Certification.
+After the Certification, I guess there will be more room for projects of my own.
 
 **Link to work:**:
 
