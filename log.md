@@ -329,6 +329,22 @@ After the Certification, I guess there will be more room for projects of my own.
 
 No link today.
 
+### Day 17: December 20, 2017
+
+**Today's Progress**:
+
+I finished the advanced algorithms, which now takes me to the last projects.
+I started with the first one, a javascript-calculator.
+I built the basics of it and styled it, but real functionality will be implemented tomorrow.
+
+**Thoughts:**:
+
+Some algorithms were hard to solve. When I got stuck I looked for hints and solutions of other users, which helped me to understand what I was doing wrong. I'm hyped again to build new projects.
+
+**Link to work:**:
+
+I will give you a link to the finished calculator probably tomorrow or within the next few days.
+
 
 
 
