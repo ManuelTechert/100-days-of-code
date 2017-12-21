@@ -345,6 +345,17 @@ Some algorithms were hard to solve. When I got stuck I looked for hints and solu
 
 I will give you a link to the finished calculator probably tomorrow or within the next few days.
 
+### Day 18: December 21, 2017
 
+**Today's Progress**:
 
+I finished the calculator as the first project. All user-stories are in my pen, so I marked this project as completed.
+I'm still not done with this project - error handling and wrong user inputs need to be needed when I've got time.
 
+**Thoughts:**:
+
+I really love building projects. The feeling seeing your project come to life and working out at some point, is just incredibly satisfying.
+
+**Link to work:**:
+
+The link to my calculator: https://codepen.io/ghosti97/pen/eyzOOM
