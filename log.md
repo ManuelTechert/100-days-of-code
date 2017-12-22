@@ -359,3 +359,18 @@ I really love building projects. The feeling seeing your project come to life an
 **Link to work:**:
 
 The link to my calculator: https://codepen.io/ghosti97/pen/eyzOOM
+
+### Day 19: December 22, 2017
+
+**Today's Progress**:
+
+I started with the second project, a pomodor clock. Basic shaping is fine, functionality is not yet implemented.
+I fixed some issues on my calculator.
+
+**Thoughts:**:
+
+Having fun like almost every day, but couldn't take that much input in it today, because christmas is coming. 
+
+**Link to work:**:
+
+Link for pomodoro clock will be given in some of the next logs.
