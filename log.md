@@ -374,3 +374,19 @@ Having fun like almost every day, but couldn't take that much input in it today,
 **Link to work:**:
 
 Link for pomodoro clock will be given in some of the next logs.
+
+### Day 20: January 08, 2018
+
+**Today's Progress**:
+
+I finished the pomodoro clock today, but one missing functionality will be added tomorrow.
+
+**Thoughts:**:
+
+Had a longer pause because of christmas and a disease afterwards. Didn't take long to get back in programming. 
+
+Pomodoro Clock is working. One thing to fix tomorrow is, that the Clock won't start a new round, once the main timer and break timer are both run out.
+
+**Link to work:**:
+
+Link for pomodoro clock: https://codepen.io/ghosti97/full/mprLZo/ (full-page-link).
