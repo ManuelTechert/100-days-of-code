@@ -390,3 +390,20 @@ Pomodoro Clock is working. One thing to fix tomorrow is, that the Clock won't st
 **Link to work:**:
 
 Link for pomodoro clock: https://codepen.io/ghosti97/full/mprLZo/ (full-page-link).
+
+### Day 21: January 09, 2018
+
+**Today's Progress**:
+
+I started with the Tic Tac Toe game today. 
+
+**Thoughts:**:
+
+Creating the game was hard at the very beginning having no clue where exactly to start.
+It then got better and I made good progress. 
+
+To finish the game, I need to solve a problem which is about swapping turns between the computer and the player. I tried it with a loop or putting the computers turn in the players one, but nothing worked.
+
+**Link to work:**:
+
+Link for Tic Tac Toe game will be given once it's finished.
