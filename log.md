@@ -407,3 +407,18 @@ To finish the game, I need to solve a problem which is about swapping turns betw
 **Link to work:**:
 
 Link for Tic Tac Toe game will be given once it's finished.
+
+### Day 22: January 10, 2018
+
+**Today's Progress**:
+
+I finished the Tic Tac Toe game today. Maybe I will implement a better algorithm later in this challenge, but for now the computer is playing randomly.
+
+**Thoughts:**:
+
+Fixed the problems of yesterday. The turns are now calling each other. So the computer will call the method playerRound(), once its finished. Before every turn is executed, the game checks for a gameover.
+One more project for the FrontEndCertification!
+
+**Link to work:**:
+
+Link for Tic Tac Toe game: https://codepen.io/ghosti97/full/eyMpbX/ (full-page)
