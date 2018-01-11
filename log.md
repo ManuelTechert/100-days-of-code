@@ -422,3 +422,18 @@ One more project for the FrontEndCertification!
 **Link to work:**:
 
 Link for Tic Tac Toe game: https://codepen.io/ghosti97/full/eyMpbX/ (full-page)
+
+### Day 23: January 11, 2018
+
+**Today's Progress**:
+
+I made some good progress on the Simon game. The computers side is working properly, the players inputs are not recognized correctly yet.
+
+**Thoughts:**:
+
+I struggled hard today. Felt like I couldn't concentrate that well. I put in several hours of work in the Simon game, but I will still need some more time, since some problems occured. Main reasons were the timing of the button presses and the correct recognition of user inputs.
+
+**Link to work:**:
+
+Link for the Simon game will be given in some of the next logs.
+
