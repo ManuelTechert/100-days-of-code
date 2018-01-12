@@ -437,3 +437,19 @@ I struggled hard today. Felt like I couldn't concentrate that well. I put in sev
 
 Link for the Simon game will be given in some of the next logs.
 
+### Day 24: January 12, 2018
+
+**Today's Progress**:
+
+I spend like 4/5 hours on the Simon game bug, still doesn't work.
+
+**Thoughts:**:
+
+I didn't think this project would take that much time. The problem is, that my onclick function of a field should add exactly one value to the players move array. For some reason it adds to many of them, which leads to a non working user input recognition. I tried everything, asked some friends for help, but didn't really help me with my solution. I discovered changing my player move array to "var" would fix the problem for the first round but then it gets complicated to have the array visible in all relevant functions.
+The click function is properly called exactly once, a manual add without the push function for the array isn't working either.
+I will, either rewrite the whole game in a new concept or fix the problem next week.
+
+**Link to work:**:
+
+Link for the Simon game will be given in some of the next logs.
+
