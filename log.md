@@ -453,3 +453,19 @@ I will, either rewrite the whole game in a new concept or fix the problem next w
 
 Link for the Simon game will be given in some of the next logs.
 
+### Day 25: January 15, 2018
+
+**Today's Progress**:
+
+I finally finished the Simon game and got my Front-End-Certification!
+
+**Thoughts:**:
+
+I solved the problem of last week with onclick events for each color field. Each field now has a separate function.
+I then implemented the strict mode, worked on the reset and redesigned the whole game a bit.
+I'm now thinking about the plan for the next weeks.
+
+**Link to work:**:
+
+Link for the Simon game: https://codepen.io/ghosti97/full/XVBBBe/
+
