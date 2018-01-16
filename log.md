@@ -469,3 +469,17 @@ I'm now thinking about the plan for the next weeks.
 
 Link for the Simon game: https://codepen.io/ghosti97/full/XVBBBe/
 
+### Day 26: January 16, 2018
+
+**Today's Progress**:
+
+I decided to learn Swift in the next weeks. Started today with basic syntax.
+As I'm moving on, I will evntually post links to little projects im creating.
+
+**Thoughts:**:
+
+I couldn't even decide, what to learn next. There are so many topics I'm interested in. I think Swift is a good step towards app development, creating games with sprite kit or using the AR kit.
+
+**Link to work:**:
+
+No linnk today.
