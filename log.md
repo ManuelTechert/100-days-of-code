@@ -482,4 +482,19 @@ I couldn't even decide, what to learn next. There are so many topics I'm interes
 
 **Link to work:**:
 
-No linnk today.
+No link today.
+
+### Day 27: January 17, 2018
+
+**Today's Progress**:
+
+I continued learning Swift with my Udemy course. Learned about Node.js and Express.
+
+**Thoughts:**:
+
+There are so many ressources I have for Swift right now. The course is fine, it's even too much information on basic functions and syntax as I'm not new to programming. I got a separate course for the Sprite Kit which I will start soon.
+It's important to practice with projects so I will think about some little starter projects.
+
+**Link to work:**:
+
+No link today.
