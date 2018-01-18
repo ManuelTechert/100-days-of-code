@@ -504,6 +504,7 @@ No link today.
 **Today's Progress**:
 
 Some Swift, not that much more today.
+
 **Thoughts:**:
 
 Swift syntax is cool but it's a bit confusing at some places.
