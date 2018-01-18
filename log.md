@@ -498,3 +498,18 @@ It's important to practice with projects so I will think about some little start
 **Link to work:**:
 
 No link today.
+
+### Day 28: January 18, 2018
+
+**Today's Progress**:
+
+Some Swift, not that much more today.
+**Thoughts:**:
+
+Swift syntax is cool but it's a bit confusing at some places.
+For example I have to get used to the loop syntax like "for i in 1...10 ".
+
+**Link to work:**:
+
+No link today.
+
