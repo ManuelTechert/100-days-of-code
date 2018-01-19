@@ -514,3 +514,17 @@ For example I have to get used to the loop syntax like "for i in 1...10 ".
 
 No link today.
 
+### Day 29: January 19, 2018
+
+**Today's Progress**:
+
+Swift practice in Xcode, also looked at SpriteKit. In some weeks I want to develop a little game or learn a bit about the AR kit.
+
+**Thoughts:**:
+
+In some weeks I want to develop a little game or learn a bit about the AR kit. I'a not as productive right now as I was at freecodecamps challenges. Thats because I do not have a specific goal at Swift. So I need to set one next week.
+
+**Link to work:**:
+
+No link today.
+
