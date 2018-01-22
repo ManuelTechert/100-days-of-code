@@ -528,3 +528,16 @@ In some weeks I want to develop a little game or learn a bit about the AR kit. I
 
 No link today.
 
+### Day 30: January 19, 2018
+
+**Today's Progress**:
+
+Swift practice, set a goal - I will build an Ethereum Viewer in Swift. XCode inital project setup.
+
+**Thoughts:**:
+
+Well, problem was I did not have a specific goal - Now I've got one. I will build an Ethereum Viewer which will be able to show current and past values in basic numbers and diagrams. I need to learn so much, but I'm of the opinion you really need to do a thing, to stick it in your head. That's why I will begin with a project to really learn Swift.
+
+**Link to work:**:
+
+All code will now be pushed to the initial repository: https://github.com/ManuelTechert/ethereum-viewer
