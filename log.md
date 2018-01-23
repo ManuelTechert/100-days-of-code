@@ -541,3 +541,19 @@ Well, problem was I did not have a specific goal - Now I've got one. I will buil
 **Link to work:**:
 
 All code will now be pushed to the initial repository: https://github.com/ManuelTechert/ethereum-viewer
+
+### Day 31: January 20, 2018
+
+**Today's Progress**:
+
+I got an advice for my project setup at GitHub - so I rebuilt my repo at the same link letting out the Tests at the Xcode project setup and adding a gitignore I can modify. I then learned basic UI in Swift, created two little Screens for first steps in Figma and recreated them in the Xcode main storyboard. So I really started with the project today.
+
+**Thoughts:**:
+
+By now I have good sources to follow for the project. Building a basic UI is pretty fun so far, tomorrow I'll be learning about connecting UI to the code. In addition I have to think about which values to show in my app and which API to use.
+I guess I will do most of this work in Figma and will rebuild it in Xcode.
+
+**Link to work:**:
+
+My screens in Figma (more is coming!): https://www.figma.com/file/XpLn1oxQKDYiQjPSO5e5LtmO/Ethereum-Viewer
+The repo link for the Ethereum Viewer is still the same.
