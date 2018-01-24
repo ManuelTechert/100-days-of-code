@@ -557,3 +557,18 @@ I guess I will do most of this work in Figma and will rebuild it in Xcode.
 
 My screens in Figma (more is coming!): https://www.figma.com/file/XpLn1oxQKDYiQjPSO5e5LtmO/Ethereum-Viewer
 The repo link for the Ethereum Viewer is still the same.
+
+### Day 32: January 21, 2018
+
+**Today's Progress**:
+
+So I continued with my design on Figma today and recreated it at Xcode. Added a navbar and my own icons from Figma. Exported my images as SVG from Figma to Adobe XD, then exported it there as PNG to use in Xcode. Also added an Ethereum icon and a new storyboard for the upcoming diagram screen.
+
+**Thoughts:**:
+
+Actually wanted to connect code to the UI today, but first I have to continue working on the UI. Struggled shortly with exporting the Figma SVGs to Xcode and how to use the Image viewer.
+
+**Link to work:**:
+
+My screens in Figma: https://www.figma.com/file/XpLn1oxQKDYiQjPSO5e5LtmO/Ethereum-Viewer
+
