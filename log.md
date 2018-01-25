@@ -572,3 +572,20 @@ Actually wanted to connect code to the UI today, but first I have to continue wo
 
 My screens in Figma: https://www.figma.com/file/XpLn1oxQKDYiQjPSO5e5LtmO/Ethereum-Viewer
 
+### Day 33: January 22, 2018
+
+**Today's Progress**:
+
+I continued with recreating the Figma design in Xcode. I connected the currents both labels as Outlets and my "To EUR" button as Action to the ViewController. I wrote code to make a click on the button change between two values in the currents value.
+
+**Thoughts:**:
+
+Well, I now know how to build a basic UI and how to connect the code to the UI. 
+Things are getting serious. I need an API now. 
+
+I thought about my News area at the bottom of the first screen and came to the conclusion to use a RSS feed or a reddit thread with an "Ethereum" category. In addition I need a library where I can use diagrams from.
+
+**Link to work:**:
+
+All code is being pushed to the repository: https://github.com/ManuelTechert/ethereum-viewer
+
