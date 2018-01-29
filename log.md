@@ -137,14 +137,14 @@ My CodePen for the second challenge (still in work): https://codepen.io/ghosti97
 
 **Today's Progress**:
 
-On this wednesday I have finished the second project I was working on (Yey, I made it!). 
+On this wednesday I have finished the second project I was working on (Yey, I made it!).
 After that, I continued with some Javascript-exercises on freecodecamp.
 I managed to do around 100 exercises.
 I bought an Udemy-course yesterday about React and React-Native and started with it.
 
 **Thoughts:**:
 
-Yesterday I was struggling with some minor problems at building the portfolio page. 
+Yesterday I was struggling with some minor problems at building the portfolio page.
 Starting today I solved every problem that occured, placed my navbar in the foreground with a higher z-index and recolored my content.
 I added some sample pictures for the portfolio and a profile photo.
 I'm pretty motivated right now because I'm making some nice progress and got some projects I built, feels great!
@@ -164,7 +164,7 @@ In addition I worked a bit more on the recently bought React-Native course on ud
 
 **Thoughts:**:
 
-Was a gretty good day today, but I'm definitely having more fun building own projects as the last few days. 
+Was a gretty good day today, but I'm definitely having more fun building own projects as the last few days.
 Anyway, learning Javascript is pretty important and the algorithm scripting is a good opportunity to dive into the thinking of a programmer.
 I'm already hyped to complete all exercises necessary to move on to the intermediate front-end projects!
 Maybe I will build a little game the next week with some HTML, CSS and JS.
@@ -228,7 +228,7 @@ I'm planning to deploy the last two projects on Heroku to get to know the proces
 
 You can check out the link to my FreeCodeCamp here: https://www.freecodecamp.org/manueltechert
 
-Link to my Local Weather App: https://codepen.io/ghosti97/pen/XVWXeb 
+Link to my Local Weather App: https://codepen.io/ghosti97/pen/XVWXeb
 
 Keep in mind to open the link with the https to get the geolocation to work.
 I read the geolocation I used will be deprecated this December 2017, but I still used it. Just for the notes.
@@ -254,7 +254,7 @@ Only real project or work links are now being listed in this area.
 
 Link to my Wikipedia-Viewer: https://codepen.io/ghosti97/full/GyggdO/ (Full-page-link)
 
-Note: Right now, you will need to click 'open link in new tab' for available results after hitting the search-button. 
+Note: Right now, you will need to click 'open link in new tab' for available results after hitting the search-button.
 
 ### Day 13: December 14, 2017
 
@@ -279,7 +279,7 @@ Will move on to the algorithm scripting tomorrow.
 
 Link to my Twitch.tv-Viewer: https://codepen.io/ghosti97/full/JMoqzM/ (Full-page-link)
 
-Note: You will need to click 'open link in new tab' for the stream links. 
+Note: You will need to click 'open link in new tab' for the stream links.
 
 ### Day 14: December 15, 2017
 
@@ -305,7 +305,7 @@ I continued with the intermediate algorithm scripting. Got a few left to solve.
 
 **Thoughts:**:
 
-Finished a lot of the algorithms, so I'm definitely making progress. 
+Finished a lot of the algorithms, so I'm definitely making progress.
 
 Still, I'm feeling a bit tired today which causes a loss of focus.
 
@@ -369,7 +369,7 @@ I fixed some issues on my calculator.
 
 **Thoughts:**:
 
-Having fun like almost every day, but couldn't take that much input in it today, because christmas is coming. 
+Having fun like almost every day, but couldn't take that much input in it today, because christmas is coming.
 
 **Link to work:**:
 
@@ -383,7 +383,7 @@ I finished the pomodoro clock today, but one missing functionality will be added
 
 **Thoughts:**:
 
-Had a longer pause because of christmas and a disease afterwards. Didn't take long to get back in programming. 
+Had a longer pause because of christmas and a disease afterwards. Didn't take long to get back in programming.
 
 Pomodoro Clock is working. One thing to fix tomorrow is, that the Clock won't start a new round, once the main timer and break timer are both run out.
 
@@ -395,12 +395,12 @@ Link for pomodoro clock: https://codepen.io/ghosti97/full/mprLZo/ (full-page-lin
 
 **Today's Progress**:
 
-I started with the Tic Tac Toe game today. 
+I started with the Tic Tac Toe game today.
 
 **Thoughts:**:
 
 Creating the game was hard at the very beginning having no clue where exactly to start.
-It then got better and I made good progress. 
+It then got better and I made good progress.
 
 To finish the game, I need to solve a problem which is about swapping turns between the computer and the player. I tried it with a loop or putting the computers turn in the players one, but nothing worked.
 
@@ -528,7 +528,7 @@ In some weeks I want to develop a little game or learn a bit about the AR kit. I
 
 No link today.
 
-### Day 30: January 19, 2018
+### Day 30: January 22, 2018
 
 **Today's Progress**:
 
@@ -542,7 +542,7 @@ Well, problem was I did not have a specific goal - Now I've got one. I will buil
 
 All code will now be pushed to the initial repository: https://github.com/ManuelTechert/ethereum-viewer
 
-### Day 31: January 20, 2018
+### Day 31: January 23, 2018
 
 **Today's Progress**:
 
@@ -558,7 +558,7 @@ I guess I will do most of this work in Figma and will rebuild it in Xcode.
 My screens in Figma (more is coming!): https://www.figma.com/file/XpLn1oxQKDYiQjPSO5e5LtmO/Ethereum-Viewer
 The repo link for the Ethereum Viewer is still the same.
 
-### Day 32: January 21, 2018
+### Day 32: January 24, 2018
 
 **Today's Progress**:
 
@@ -572,7 +572,7 @@ Actually wanted to connect code to the UI today, but first I have to continue wo
 
 My screens in Figma: https://www.figma.com/file/XpLn1oxQKDYiQjPSO5e5LtmO/Ethereum-Viewer
 
-### Day 33: January 22, 2018
+### Day 33: January 25, 2018
 
 **Today's Progress**:
 
@@ -580,8 +580,8 @@ I continued with recreating the Figma design in Xcode. I connected the currents 
 
 **Thoughts:**:
 
-Well, I now know how to build a basic UI and how to connect the code to the UI. 
-Things are getting serious. I need an API now. 
+Well, I now know how to build a basic UI and how to connect the code to the UI.
+Things are getting serious. I need an API now.
 
 I thought about my News area at the bottom of the first screen and came to the conclusion to use a RSS feed or a reddit thread with an "Ethereum" category. In addition I need a library where I can use diagrams from.
 
@@ -589,3 +589,17 @@ I thought about my News area at the bottom of the first screen and came to the c
 
 All code is being pushed to the repository: https://github.com/ManuelTechert/ethereum-viewer
 
+### Day 34: January 29, 2018
+
+**Today's Progress**:
+
+Added news section in the main storyboard and some pseudo code.
+
+**Thoughts:**:
+
+Not that much time today, so just some pseudo code and a little progress on the main storyboard.
+Api tomorrow.
+
+**Link to work:**:
+
+My repository for the ethereum viewer: https://github.com/ManuelTechert/ethereum-viewer
