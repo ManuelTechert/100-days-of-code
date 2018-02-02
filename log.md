@@ -603,3 +603,30 @@ Api tomorrow.
 **Link to work:**:
 
 My repository for the ethereum viewer: https://github.com/ManuelTechert/ethereum-viewer
+
+### Day 35: January 31, 2018
+
+**Today's Progress**:
+
+Changed my design and made it a little bit cleaner.
+**Thoughts:**:
+
+Api is pretty hard I have to admit, but I will make it.
+
+**Link to work:**:
+
+-
+
+### Day 36: February 02, 2018
+
+**Today's Progress**:
+
+I converted my dark theme app to a bright theme. Learned about Api calls in swift with URLSession.
+
+**Thoughts:**:
+
+API is still a topic I have to do. I got not that much time, hope I can do it next week.
+
+**Link to work:**:
+
+-
